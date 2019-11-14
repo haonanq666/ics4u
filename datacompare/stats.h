@@ -1,6 +1,5 @@
-//
-// Created by hello on 10/31/19.
-//
+
+
 
 #ifndef DATACOMPARE_STATS_H
 #define DATACOMPARE_STATS_H
