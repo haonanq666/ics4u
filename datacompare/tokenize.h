@@ -1,6 +1,5 @@
-//
-// Created by hello on 10/30/19.
-//
+
+
 
 #ifndef DATACOMPARE_TOKENIZE_H
 #define DATACOMPARE_TOKENIZE_H
