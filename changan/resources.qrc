@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/screens">
+        <file>shichen.jpg</file>
+        <file>shichen.png</file>
+        <file>changanlogo.png</file>
+        <file>lvbenqi.png</file>
+        <file>longwuqi.png</file>
+        <file>youxiaoqi.png</file>
+        <file>gamebgm.mp3</file>
+        <file>duangexing.mp3</file>
+        <file>mingguangkai-removebg-preview.png</file>
+        <file>hengdao.png</file>
+        <file>hengdaors.png</file>
+        <file>jiazi.png</file>
+        <file>changhenge.png</file>
+        <file>qingpingyue.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
